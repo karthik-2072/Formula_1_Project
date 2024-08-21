@@ -1,0 +1,4 @@
+Azure Architectures:
+https://learn.microsoft.com/en-us/azure/architecture/browse/
+Spark Documentation:
+https://spark.apache.org/docs/latest/api/python/index.html
